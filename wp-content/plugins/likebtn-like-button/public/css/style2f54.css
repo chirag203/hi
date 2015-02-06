@@ -1,0 +1,11 @@
+#buddypress div.activity-meta a.at300b, 
+#buddypress div.activity-meta a.at300bo, 
+#buddypress div.activity-meta a.at300m,
+#bbpress-forums div.bbp-topic-content a.at300b, 
+#bbpress-forums div.bbp-topic-content a.at300bo, 
+#bbpress-forums div.bbp-topic-content a.at300m, 
+#bbpress-forums div.bbp-reply-content a.at300b,
+#bbpress-forums div.bbp-reply-content a.at300bo,
+#bbpress-forums div.bbp-reply-content a.at300m {
+    padding: 0 2px;
+}
